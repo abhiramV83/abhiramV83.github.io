@@ -1,0 +1,21 @@
+.header {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.main{
+    background-color: antiquewhite;
+}
+.footer {
+    background-color: rgb(110, 118, 117);
+}
+.header a:first-of-type {
+    margin-left: auto;
+}
+.header a {
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
