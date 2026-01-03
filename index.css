@@ -5,7 +5,7 @@
     padding: 10px;
 }
 .main{
-    background-color: gray;
+    background-color: beige;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,10 +15,10 @@
 } */
 /* .header a:first-of-type {
     margin-left: auto;
-}
+} */
 .header a {
-    margin-left: 15px;
+    /* margin-left: 15px; */
     text-decoration: none;
     font-weight: bold;
     color: black;
-} */
+}
