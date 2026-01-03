@@ -10,6 +10,12 @@
     justify-content: space-between;
     align-items: center;
 }
+.cards{
+    background-color: rgb(85, 168, 141);
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
 /* .footer {
     background-color: rgb(110, 118, 117);
 } */
