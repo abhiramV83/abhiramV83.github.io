@@ -1,0 +1,11 @@
+.login-btn{
+    background-color: blue;
+    color: white;
+    border-radius :10px;
+    border :none;
+}
+.create-acc-btn{
+    background-color: green;
+    color: white;
+    border: none;
+}
